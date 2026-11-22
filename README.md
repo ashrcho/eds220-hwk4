@@ -1,5 +1,5 @@
 # Fire Scars Through False Color: Eaton and Palisades Fires
-!(output.png)
+!['Project output'](output.png)
 ## About
 This repository houses a Jupyter notebook whose aim is to visualize the burn scars of the January 2025 Eaton and Palisades fires in Los Angeles County. Landsat 8 imagery from February 23, 2025 is displayed in true color and in false color (shortwave infrared, near infrared, red), then mapped with the fire perimeters to show how false color imagery highlights burned land.
 
